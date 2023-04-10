@@ -1,28 +1,14 @@
 {
-  "students": [
-    {
-      "name": "John Paul",
-      "age": 23,
-      "email": "paulellema@gmail.com",
-      "isEnrolled": true
-    },
-     {
-      "name": "juan cruz",
-      "age": 24,
-      "email": "cruz@mail.com",
-      "isEnrolled": true
-    },
-     {
-      "name": "based jovito",
-      "age": 25,
-      "email": "based@mail.com",
-      "isEnrolled": false
-    },
-    {
-      "name": "based god",
-      "age": 30,
-      "email": "base@mail.com",
-      "isEnrolled": true
-    }
-    ]
-}
+    "students": [
+      {
+        "name": "John Paul L. Ellema",
+        "age": 23,
+        "Favorite Quotes": "Make it work, make it right, make it fast"
+      },
+      {
+        "Class Section": "based god",
+        "Section Code": 30,
+        "Buksu Email": "1801105317@student.buksu.edu.ph"
+      }
+      ]
+  }
