@@ -3,12 +3,12 @@
       {
         "name": "John Paul L. Ellema",
         "age": 23,
-        "Favorite_Quotes": "Make it work, make it right, make it fast"
+        "FavoriteQuotes": "Make it work, make it right, make it fast"
       },
       {
-        "Class_Section": "BSEMC DAT",
-        "Section_Code": "T90",
-        "Buksu_Email": "1801105317@student.buksu.edu.ph"
+        "ClassSection": "BSEMC DAT",
+        "SectionCode": "T90",
+        "BuksuEmail": "1801105317@student.buksu.edu.ph"
       }
       ]
   }
